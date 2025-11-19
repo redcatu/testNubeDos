@@ -1,0 +1,6 @@
+@Railway_Nube_HostAddress = http://localhost:5260
+
+GET {{Railway_Nube_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
